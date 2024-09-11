@@ -8,7 +8,7 @@
 
 ## Яндекс Контест: "Бесплатный курс: подготовка к собеседованиям"
 
-[Соревнование](https://contest.yandex.ru/contest/36783/enter/), [Решения](https://github.com/SavchenkoIM/algo-training-go/yandex-free-algo-course)
+[Соревнование](https://contest.yandex.ru/contest/36783/enter/), [Решения](https://github.com/SavchenkoIM/algo-training-go/tree/main/yandex-free-algo-course)
 
 Список решённых задач:
 
